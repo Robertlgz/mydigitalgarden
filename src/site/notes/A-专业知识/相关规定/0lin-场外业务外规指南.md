@@ -35,7 +35,7 @@
 ## 一、风险子可开展的业务
 
 > [!tip]-  【关联规定】
-> - 
+> - 20140826 中期协字〔2014〕73号 期货公司设立子公司开展以风险管理服务为主的业务试点工作指引（修订）（失效）#第三条
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/a///20140826-2014-73/20140826-2014-73/#" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
@@ -53,7 +53,7 @@
 
 </div></div>
 
-> - 
+> - 20190215 中期协字〔2019〕10号 期货公司风险管理公司业务试点指引（2019修订）（有效）#第三条 【试点业务内容】
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/a///20190215-2019-10/20190215-2019-10-2019/#" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
@@ -71,7 +71,7 @@
 
 </div></div>
 
-> - 
+> - 20190215 中期协字〔2019〕10号 期货公司风险管理公司业务试点指引（2019修订）（有效）#第五十九条
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/a///20190215-2019-10/20190215-2019-10-2019/#" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
